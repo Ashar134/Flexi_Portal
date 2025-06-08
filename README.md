@@ -30,7 +30,7 @@ Flexi is a Django-based web app combining features from Google Classroom and Fle
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/Ashar134/Flex_Portal.git
+git clone https://github.com/Ashar134/Flexi_Portal.git
 cd Flexi_Portal
 pip install -r requirements.txt
 python manage.py migrate
