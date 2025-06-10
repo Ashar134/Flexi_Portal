@@ -23,7 +23,7 @@ Flexi is a Django-based web app combining features from Google Classroom and Fle
 - Manage timetables
 
 ## Tech Stack
-- HTML, CSS
+- HTML, CSS, JS
 - Django (Python)
 - BeautifulSoup (Web scraping)
 - Regex (Validation)
